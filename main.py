@@ -1,5 +1,6 @@
-# DJI Tello edu
-# Start date: 05/10/2021
+"""
+Author : Sarvesh Thakur
+"""
 
 
 from FlightControl import *

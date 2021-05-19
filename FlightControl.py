@@ -1,6 +1,4 @@
 """
-Project : Make the best of DJI Tello.
-Start Date : 05/10/2021
 Author : Sarvesh Thakur
 """
 import cv2
